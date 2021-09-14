@@ -1,0 +1,25 @@
+h1 {
+  font-size: 60px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+ol.text-center {
+    list-style-position: inside;
+    padding-left: inherit; /*Get rid of padding to center correctly*/
+    font-size: 20px;
+}
