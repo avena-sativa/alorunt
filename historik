@@ -9,9 +9,9 @@
 	<body>
     <h1>ÅLÖ RUNT 2022</h1>
     
-	<p><a href="index.html">Startsida</a>
-    <a href="historik.html">Tidigare lopp</a>
-    <a href="bildgalleri.html">Bildgalleri</a></p>
+	<p><a href="index">Startsida</a>
+    <a href="historik">Tidigare lopp</a>
+    <a href="bildgalleri">Bildgalleri</a></p>
     
     <h2>Resultat 2021</h2>
     <ol class="text-center">

@@ -8,9 +8,9 @@
 	</head>
 	<body>
 		<h1>ÅLÖ RUNT 2022</h1>
-		<p><a href="index.html">Startsida</a>
-		<a href="historik.html">Tidigare lopp</a>
-		<a href="bildgalleri.html">Bildgalleri</a></p>
+		<p><a href="index">Startsida</a>
+		<a href="historik">Tidigare lopp</a>
+		<a href="bildgalleri">Bildgalleri</a></p>
 			<img src="images/gallery/1.jpg">
 			<img src="images/gallery/2.jpg">
 			<img src="images/gallery/5.jpg">
