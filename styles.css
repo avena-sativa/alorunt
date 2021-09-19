@@ -78,6 +78,10 @@ ol.text-center {
     font-size: 60px;
   }
 
+  h2 {
+    font-size: 30px;
+  }
+
   .main-header { 
     font-size: 24px;
   }
@@ -103,8 +107,17 @@ ol.text-center {
     text-align: center;
     font-size: 24px;
   }
+
+  h2 {
+    font-size: 32px;
+  }
   
   .img-text {
     text-align: center;
   }
+
+  ol.text-center {
+    font-size: 24px;
+  }
+  
 }
