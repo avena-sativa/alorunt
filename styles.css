@@ -66,7 +66,9 @@ ol.text-center {
   padding-left: inherit; 
   font-size: 20px;
 }
-
+a {
+      color: dodgerblue;
+  }
 
 @media only screen and (min-width: 768px) {
   .wrapper {
@@ -118,8 +120,5 @@ ol.text-center {
 
   ol.text-center {
     font-size: 24px;
-  }
-  a {
-      color: dodgerblue;
   }
 }
