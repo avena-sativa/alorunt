@@ -119,5 +119,7 @@ ol.text-center {
   ol.text-center {
     font-size: 24px;
   }
-  
+  a {
+      color: dodgerblue;
+  }
 }
