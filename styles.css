@@ -70,6 +70,15 @@ a {
       color: dodgerblue;
   }
 
+.table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+.td {
+  padding: 10px 0;
+}
+
 @media only screen and (min-width: 768px) {
   .wrapper {
     width: 600px;
